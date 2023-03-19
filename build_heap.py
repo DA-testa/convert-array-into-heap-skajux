@@ -1,5 +1,5 @@
 # python3
-
+# Kristiāns Martiņjaks 221RDB223
 
 def build_heap(data):
     swaps = []
